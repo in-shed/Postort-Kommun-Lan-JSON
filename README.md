@@ -46,7 +46,7 @@ By Postort:
 }
 ```
 
-Hierarchecal conversion:
+Hierarchical conversion:
 ```json
 {
   "Västra Götalands län": {
